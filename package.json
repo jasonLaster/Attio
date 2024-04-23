@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@api/attio": "file:.api/apis/attio",
+    "dotenv": "^16.4.5"
+  }
+}
